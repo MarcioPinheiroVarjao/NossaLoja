@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cadastros", "Cadastros", "{093E4CE7-7EF0-413E-A353-45C96379F6DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{D83EF55A-F4AB-4DD6-A59A-F1AF2E36B852}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NossaLoja.Cadastros.Application", "Cadastros\Application\NossaLoja.Cadastros.Application\NossaLoja.Cadastros.Application.csproj", "{EAAE1EF9-20B6-45AD-B64A-6839330C1F07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NossaLoja.Cadastros.Application.Test", "Cadastros\Application\NossaLoja.Cadastros.Application.Test\NossaLoja.Cadastros.Application.Test.csproj", "{4730EE21-FDD1-43C4-A962-D078895232EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAAE1EF9-20B6-45AD-B64A-6839330C1F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAAE1EF9-20B6-45AD-B64A-6839330C1F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAAE1EF9-20B6-45AD-B64A-6839330C1F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAAE1EF9-20B6-45AD-B64A-6839330C1F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4730EE21-FDD1-43C4-A962-D078895232EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4730EE21-FDD1-43C4-A962-D078895232EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4730EE21-FDD1-43C4-A962-D078895232EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4730EE21-FDD1-43C4-A962-D078895232EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D83EF55A-F4AB-4DD6-A59A-F1AF2E36B852} = {093E4CE7-7EF0-413E-A353-45C96379F6DD}
+		{EAAE1EF9-20B6-45AD-B64A-6839330C1F07} = {D83EF55A-F4AB-4DD6-A59A-F1AF2E36B852}
+		{4730EE21-FDD1-43C4-A962-D078895232EF} = {D83EF55A-F4AB-4DD6-A59A-F1AF2E36B852}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7639B36-B007-4FCC-9927-C90045ED6CCC}
+	EndGlobalSection
+EndGlobal
