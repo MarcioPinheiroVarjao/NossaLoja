@@ -1,0 +1,16 @@
+D:\C#\Sommus\NossaLoja\src\Cadastros\Data\NossaLoja.Cadastros.Data.ADO\bin\Debug\net8.0\NossaLoja.Cadastros.Data.ADO.deps.json
+D:\C#\Sommus\NossaLoja\src\Cadastros\Data\NossaLoja.Cadastros.Data.ADO\bin\Debug\net8.0\NossaLoja.Cadastros.Data.ADO.dll
+D:\C#\Sommus\NossaLoja\src\Cadastros\Data\NossaLoja.Cadastros.Data.ADO\bin\Debug\net8.0\NossaLoja.Cadastros.Data.ADO.pdb
+D:\C#\Sommus\NossaLoja\src\Cadastros\Data\NossaLoja.Cadastros.Data.ADO\bin\Debug\net8.0\NossaLoja.Cadastros.Domain.dll
+D:\C#\Sommus\NossaLoja\src\Cadastros\Data\NossaLoja.Cadastros.Data.ADO\bin\Debug\net8.0\NossaLoja.Cadastros.Domain.pdb
+D:\C#\Sommus\NossaLoja\src\Cadastros\Data\NossaLoja.Cadastros.Data.ADO\obj\Debug\net8.0\NossaLoja.Cadastros.Data.ADO.csproj.AssemblyReference.cache
+D:\C#\Sommus\NossaLoja\src\Cadastros\Data\NossaLoja.Cadastros.Data.ADO\obj\Debug\net8.0\NossaLoja.Cadastros.Data.ADO.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Sommus\NossaLoja\src\Cadastros\Data\NossaLoja.Cadastros.Data.ADO\obj\Debug\net8.0\NossaLoja.Cadastros.Data.ADO.AssemblyInfoInputs.cache
+D:\C#\Sommus\NossaLoja\src\Cadastros\Data\NossaLoja.Cadastros.Data.ADO\obj\Debug\net8.0\NossaLoja.Cadastros.Data.ADO.AssemblyInfo.cs
+D:\C#\Sommus\NossaLoja\src\Cadastros\Data\NossaLoja.Cadastros.Data.ADO\obj\Debug\net8.0\NossaLoja.Cadastros.Data.ADO.csproj.CoreCompileInputs.cache
+D:\C#\Sommus\NossaLoja\src\Cadastros\Data\NossaLoja.Cadastros.Data.ADO\obj\Debug\net8.0\NossaLoja.Cadastros.Data.ADO.sourcelink.json
+D:\C#\Sommus\NossaLoja\src\Cadastros\Data\NossaLoja.Cadastros.Data.ADO\obj\Debug\net8.0\NossaLoj.C455B711.Up2Date
+D:\C#\Sommus\NossaLoja\src\Cadastros\Data\NossaLoja.Cadastros.Data.ADO\obj\Debug\net8.0\NossaLoja.Cadastros.Data.ADO.dll
+D:\C#\Sommus\NossaLoja\src\Cadastros\Data\NossaLoja.Cadastros.Data.ADO\obj\Debug\net8.0\refint\NossaLoja.Cadastros.Data.ADO.dll
+D:\C#\Sommus\NossaLoja\src\Cadastros\Data\NossaLoja.Cadastros.Data.ADO\obj\Debug\net8.0\NossaLoja.Cadastros.Data.ADO.pdb
+D:\C#\Sommus\NossaLoja\src\Cadastros\Data\NossaLoja.Cadastros.Data.ADO\obj\Debug\net8.0\ref\NossaLoja.Cadastros.Data.ADO.dll

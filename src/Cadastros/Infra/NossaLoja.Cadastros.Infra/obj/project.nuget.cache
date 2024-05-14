@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BsFOEEyuqpmWbYfk9VJnJ1MJQ1Z5gpAjBqN/L9hgODomFGJN/h7EXjP/raVMP+Eldyq9RSFKVFpAdPpSmU26gg==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\NossaLoja.Cadastros.Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcio\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Marcio\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}

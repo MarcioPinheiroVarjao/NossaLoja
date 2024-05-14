@@ -1,16 +1,25 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using NossaLoja.Cadastros.Domain.Interface;
+using NossaLoja.Cadastros.Domain.Service;
+using NossaLoja.Cadastros.Infra.DependencyInjection.Services;
+using System.Runtime.CompilerServices;
 
 namespace NossaLoja.Cadastros.Application.Application
 {
     public class ClienteApplication
     {
+        private ClienteService ServiceFactory()
+        {
+            var clienteService = new ClienteService(
+                   DependecyInjectionService.Resolve<IClienteRepository>()
+                );
+            return clienteService;
+        }
+
         public int SomaMaisUm()
         {
-            return 1 + 1;
+            var resultado = ServiceFactory().SomaUmMaisUm();
+
+            return resultado;
         }
 
     }

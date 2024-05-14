@@ -7,8 +7,36 @@
       "RelativeMoniker": "D:0:0:{4730EE21-FDD1-43C4-A962-D078895232EF}|Cadastros\\Application\\NossaLoja.Cadastros.Application.Test\\NossaLoja.Cadastros.Application.Test.csproj|solutionrelative:cadastros\\application\\nossaloja.cadastros.application.test\\application\\clienteapplicationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4730EE21-FDD1-43C4-A962-D078895232EF}|Cadastros\\Application\\NossaLoja.Cadastros.Application.Test\\NossaLoja.Cadastros.Application.Test.csproj|d:\\c#\\sommus\\nossaloja\\src\\cadastros\\application\\nossaloja.cadastros.application.test\\application\\baseapplicationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4730EE21-FDD1-43C4-A962-D078895232EF}|Cadastros\\Application\\NossaLoja.Cadastros.Application.Test\\NossaLoja.Cadastros.Application.Test.csproj|solutionrelative:cadastros\\application\\nossaloja.cadastros.application.test\\application\\baseapplicationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DD39B0-4A20-44FA-876B-AAFC42397766}|Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\NossaLoja.Cadastros.Infra.csproj|d:\\c#\\sommus\\nossaloja\\src\\cadastros\\infra\\nossaloja.cadastros.infra\\dependencyinjection\\services\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DD39B0-4A20-44FA-876B-AAFC42397766}|Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\NossaLoja.Cadastros.Infra.csproj|solutionrelative:cadastros\\infra\\nossaloja.cadastros.infra\\dependencyinjection\\services\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EAAE1EF9-20B6-45AD-B64A-6839330C1F07}|Cadastros\\Application\\NossaLoja.Cadastros.Application\\NossaLoja.Cadastros.Application.csproj|d:\\c#\\sommus\\nossaloja\\src\\cadastros\\application\\nossaloja.cadastros.application\\application\\clienteapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAAE1EF9-20B6-45AD-B64A-6839330C1F07}|Cadastros\\Application\\NossaLoja.Cadastros.Application\\NossaLoja.Cadastros.Application.csproj|solutionrelative:cadastros\\application\\nossaloja.cadastros.application\\application\\clienteapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DD39B0-4A20-44FA-876B-AAFC42397766}|Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\NossaLoja.Cadastros.Infra.csproj|d:\\c#\\sommus\\nossaloja\\src\\cadastros\\infra\\nossaloja.cadastros.infra\\dependencyinjection\\interfaces\\idependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DD39B0-4A20-44FA-876B-AAFC42397766}|Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\NossaLoja.Cadastros.Infra.csproj|solutionrelative:cadastros\\infra\\nossaloja.cadastros.infra\\dependencyinjection\\interfaces\\idependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DD39B0-4A20-44FA-876B-AAFC42397766}|Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\NossaLoja.Cadastros.Infra.csproj|d:\\c#\\sommus\\nossaloja\\src\\cadastros\\infra\\nossaloja.cadastros.infra\\dependencyinjection\\services\\dependecyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DD39B0-4A20-44FA-876B-AAFC42397766}|Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\NossaLoja.Cadastros.Infra.csproj|solutionrelative:cadastros\\infra\\nossaloja.cadastros.infra\\dependencyinjection\\services\\dependecyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E69A3-95CC-48CA-A1C6-3E101755FBAE}|Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\NossaLoja.Cadastros.Domain.csproj|d:\\c#\\sommus\\nossaloja\\src\\cadastros\\domain\\nossaloja.cadastros.domain\\interface\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4E69A3-95CC-48CA-A1C6-3E101755FBAE}|Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\NossaLoja.Cadastros.Domain.csproj|solutionrelative:cadastros\\domain\\nossaloja.cadastros.domain\\interface\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E69A3-95CC-48CA-A1C6-3E101755FBAE}|Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\NossaLoja.Cadastros.Domain.csproj|d:\\c#\\sommus\\nossaloja\\src\\cadastros\\domain\\nossaloja.cadastros.domain\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4E69A3-95CC-48CA-A1C6-3E101755FBAE}|Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\NossaLoja.Cadastros.Domain.csproj|solutionrelative:cadastros\\domain\\nossaloja.cadastros.domain\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672F3851-DD93-45F1-AE2B-7C05827B9F61}|Cadastros\\Data\\NossaLoja.Cadastros.Data.ADO\\NossaLoja.Cadastros.Data.ADO.csproj|d:\\c#\\sommus\\nossaloja\\src\\cadastros\\data\\nossaloja.cadastros.data.ado\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672F3851-DD93-45F1-AE2B-7C05827B9F61}|Cadastros\\Data\\NossaLoja.Cadastros.Data.ADO\\NossaLoja.Cadastros.Data.ADO.csproj|solutionrelative:cadastros\\data\\nossaloja.cadastros.data.ado\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +46,116 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseApplicationTest.cs",
+              "DocumentMoniker": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Application\\NossaLoja.Cadastros.Application.Test\\Application\\BaseApplicationTest.cs",
+              "RelativeDocumentMoniker": "Cadastros\\Application\\NossaLoja.Cadastros.Application.Test\\Application\\BaseApplicationTest.cs",
+              "ToolTip": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Application\\NossaLoja.Cadastros.Application.Test\\Application\\BaseApplicationTest.cs",
+              "RelativeToolTip": "Cadastros\\Application\\NossaLoja.Cadastros.Application.Test\\Application\\BaseApplicationTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:14:08.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependecyInjectionService.cs",
+              "DocumentMoniker": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\DependencyInjection\\Services\\DependecyInjectionService.cs",
+              "RelativeDocumentMoniker": "Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\DependencyInjection\\Services\\DependecyInjectionService.cs",
+              "ToolTip": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\DependencyInjection\\Services\\DependecyInjectionService.cs",
+              "RelativeToolTip": "Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\DependencyInjection\\Services\\DependecyInjectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:38:53.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDependecyInjection.cs",
+              "DocumentMoniker": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\DependencyInjection\\Interfaces\\IDependecyInjection.cs",
+              "RelativeDocumentMoniker": "Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\DependencyInjection\\Interfaces\\IDependecyInjection.cs",
+              "ToolTip": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\DependencyInjection\\Interfaces\\IDependecyInjection.cs",
+              "RelativeToolTip": "Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\DependencyInjection\\Interfaces\\IDependecyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:31:49.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Container.cs",
+              "DocumentMoniker": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\DependencyInjection\\Services\\Container.cs",
+              "RelativeDocumentMoniker": "Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\DependencyInjection\\Services\\Container.cs",
+              "ToolTip": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\DependencyInjection\\Services\\Container.cs",
+              "RelativeToolTip": "Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\DependencyInjection\\Services\\Container.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:10:37.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\Interface\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\Interface\\IClienteRepository.cs",
+              "ToolTip": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\Interface\\IClienteRepository.cs",
+              "RelativeToolTip": "Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\Interface\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:24:32.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Data\\NossaLoja.Cadastros.Data.ADO\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Cadastros\\Data\\NossaLoja.Cadastros.Data.ADO\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Data\\NossaLoja.Cadastros.Data.ADO\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "Cadastros\\Data\\NossaLoja.Cadastros.Data.ADO\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:32:01.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\Service\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\Service\\ClienteService.cs",
+              "ToolTip": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\Service\\ClienteService.cs",
+              "RelativeToolTip": "Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\Service\\ClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:18:43.66Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ClienteApplicationTest.cs",
               "DocumentMoniker": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Application\\NossaLoja.Cadastros.Application.Test\\Application\\ClienteApplicationTest.cs",
               "RelativeDocumentMoniker": "Cadastros\\Application\\NossaLoja.Cadastros.Application.Test\\Application\\ClienteApplicationTest.cs",
-              "ToolTip": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Application\\NossaLoja.Cadastros.Application.Test\\Application\\ClienteApplicationTest.cs",
-              "RelativeToolTip": "Cadastros\\Application\\NossaLoja.Cadastros.Application.Test\\Application\\ClienteApplicationTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "ToolTip": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Application\\NossaLoja.Cadastros.Application.Test\\Application\\ClienteApplicationTest.cs*",
+              "RelativeToolTip": "Cadastros\\Application\\NossaLoja.Cadastros.Application.Test\\Application\\ClienteApplicationTest.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T12:05:16.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ClienteApplication.cs",
               "DocumentMoniker": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Application\\NossaLoja.Cadastros.Application\\Application\\ClienteApplication.cs",
               "RelativeDocumentMoniker": "Cadastros\\Application\\NossaLoja.Cadastros.Application\\Application\\ClienteApplication.cs",
               "ToolTip": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Application\\NossaLoja.Cadastros.Application\\Application\\ClienteApplication.cs",
               "RelativeToolTip": "Cadastros\\Application\\NossaLoja.Cadastros.Application\\Application\\ClienteApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T22:03:37.75Z",
               "EditorCaption": ""

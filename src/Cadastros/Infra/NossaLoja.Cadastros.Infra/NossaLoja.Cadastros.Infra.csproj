@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Unity" Version="5.11.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Data\NossaLoja.Cadastros.Data.ADO\NossaLoja.Cadastros.Data.ADO.csproj" />
+    <ProjectReference Include="..\..\Domain\NossaLoja.Cadastros.Domain\NossaLoja.Cadastros.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

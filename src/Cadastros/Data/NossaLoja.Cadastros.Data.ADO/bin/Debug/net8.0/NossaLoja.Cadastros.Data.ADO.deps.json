@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NossaLoja.Cadastros.Data.ADO/1.0.0": {
+        "dependencies": {
+          "NossaLoja.Cadastros.Domain": "1.0.0"
+        },
+        "runtime": {
+          "NossaLoja.Cadastros.Data.ADO.dll": {}
+        }
+      },
+      "NossaLoja.Cadastros.Domain/1.0.0": {
+        "runtime": {
+          "NossaLoja.Cadastros.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NossaLoja.Cadastros.Data.ADO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NossaLoja.Cadastros.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

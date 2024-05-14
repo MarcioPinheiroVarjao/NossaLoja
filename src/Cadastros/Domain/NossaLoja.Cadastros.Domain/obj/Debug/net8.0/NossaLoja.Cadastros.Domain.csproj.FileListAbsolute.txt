@@ -1,0 +1,12 @@
+D:\C#\Sommus\NossaLoja\src\Cadastros\Domain\NossaLoja.Cadastros.Domain\bin\Debug\net8.0\NossaLoja.Cadastros.Domain.deps.json
+D:\C#\Sommus\NossaLoja\src\Cadastros\Domain\NossaLoja.Cadastros.Domain\bin\Debug\net8.0\NossaLoja.Cadastros.Domain.dll
+D:\C#\Sommus\NossaLoja\src\Cadastros\Domain\NossaLoja.Cadastros.Domain\bin\Debug\net8.0\NossaLoja.Cadastros.Domain.pdb
+D:\C#\Sommus\NossaLoja\src\Cadastros\Domain\NossaLoja.Cadastros.Domain\obj\Debug\net8.0\NossaLoja.Cadastros.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Sommus\NossaLoja\src\Cadastros\Domain\NossaLoja.Cadastros.Domain\obj\Debug\net8.0\NossaLoja.Cadastros.Domain.AssemblyInfoInputs.cache
+D:\C#\Sommus\NossaLoja\src\Cadastros\Domain\NossaLoja.Cadastros.Domain\obj\Debug\net8.0\NossaLoja.Cadastros.Domain.AssemblyInfo.cs
+D:\C#\Sommus\NossaLoja\src\Cadastros\Domain\NossaLoja.Cadastros.Domain\obj\Debug\net8.0\NossaLoja.Cadastros.Domain.csproj.CoreCompileInputs.cache
+D:\C#\Sommus\NossaLoja\src\Cadastros\Domain\NossaLoja.Cadastros.Domain\obj\Debug\net8.0\NossaLoja.Cadastros.Domain.sourcelink.json
+D:\C#\Sommus\NossaLoja\src\Cadastros\Domain\NossaLoja.Cadastros.Domain\obj\Debug\net8.0\NossaLoja.Cadastros.Domain.dll
+D:\C#\Sommus\NossaLoja\src\Cadastros\Domain\NossaLoja.Cadastros.Domain\obj\Debug\net8.0\refint\NossaLoja.Cadastros.Domain.dll
+D:\C#\Sommus\NossaLoja\src\Cadastros\Domain\NossaLoja.Cadastros.Domain\obj\Debug\net8.0\NossaLoja.Cadastros.Domain.pdb
+D:\C#\Sommus\NossaLoja\src\Cadastros\Domain\NossaLoja.Cadastros.Domain\obj\Debug\net8.0\ref\NossaLoja.Cadastros.Domain.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NossaLoja.Cadastros.Application.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edf6f0978cb5a29330def0dc0e0542e9bb3b1f12")]
 [assembly: System.Reflection.AssemblyProductAttribute("NossaLoja.Cadastros.Application.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NossaLoja.Cadastros.Application.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

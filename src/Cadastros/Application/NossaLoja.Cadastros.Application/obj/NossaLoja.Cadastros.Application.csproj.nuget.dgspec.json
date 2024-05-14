@@ -31,6 +31,145 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\NossaLoja.Cadastros.Domain.csproj": {
+                "projectPath": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\NossaLoja.Cadastros.Domain.csproj"
+              },
+              "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\NossaLoja.Cadastros.Infra.csproj": {
+                "projectPath": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\NossaLoja.Cadastros.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Data\\NossaLoja.Cadastros.Data.ADO\\NossaLoja.Cadastros.Data.ADO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Data\\NossaLoja.Cadastros.Data.ADO\\NossaLoja.Cadastros.Data.ADO.csproj",
+        "projectName": "NossaLoja.Cadastros.Data.ADO",
+        "projectPath": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Data\\NossaLoja.Cadastros.Data.ADO\\NossaLoja.Cadastros.Data.ADO.csproj",
+        "packagesPath": "C:\\Users\\Marcio\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Data\\NossaLoja.Cadastros.Data.ADO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marcio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\NossaLoja.Cadastros.Domain.csproj": {
+                "projectPath": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\NossaLoja.Cadastros.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\NossaLoja.Cadastros.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\NossaLoja.Cadastros.Domain.csproj",
+        "projectName": "NossaLoja.Cadastros.Domain",
+        "projectPath": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\NossaLoja.Cadastros.Domain.csproj",
+        "packagesPath": "C:\\Users\\Marcio\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marcio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -48,6 +187,83 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\NossaLoja.Cadastros.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\NossaLoja.Cadastros.Infra.csproj",
+        "projectName": "NossaLoja.Cadastros.Infra",
+        "projectPath": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\NossaLoja.Cadastros.Infra.csproj",
+        "packagesPath": "C:\\Users\\Marcio\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Infra\\NossaLoja.Cadastros.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marcio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Data\\NossaLoja.Cadastros.Data.ADO\\NossaLoja.Cadastros.Data.ADO.csproj": {
+                "projectPath": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Data\\NossaLoja.Cadastros.Data.ADO\\NossaLoja.Cadastros.Data.ADO.csproj"
+              },
+              "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\NossaLoja.Cadastros.Domain.csproj": {
+                "projectPath": "D:\\C#\\Sommus\\NossaLoja\\src\\Cadastros\\Domain\\NossaLoja.Cadastros.Domain\\NossaLoja.Cadastros.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Unity": {
+              "target": "Package",
+              "version": "[5.11.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
